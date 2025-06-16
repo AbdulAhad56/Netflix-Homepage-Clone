@@ -25,8 +25,11 @@ A front-end clone of Netflix’s homepage, built with HTML, CSS, and JavaScript.
 Netflix-Homepage-Clone/
 ├── index.html
 ├── style.css
+├── gav.ico
 └── assets/
-└── images/
+        └── Images/
+        └── Videos/
+          
 
 ## 📄 License
 
